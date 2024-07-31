@@ -1,0 +1,14 @@
+.box {
+    height: 200px;
+    width: 200px;
+    background-color: gray;
+}
+
+.navbar{
+    height: 60px;
+    background-color: lightgrey;
+}
+
+.space{
+    height: 50px;
+}
